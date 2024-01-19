@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  /* font-family: Mulish; */
+}
+
+main {
+  margin: 0px 140px 0px 140px;
+}
+.banner img {
+  display: block;
+  margin: 0%;
+  width: auto;
+  height: 400px;
+  flex-shrink: 0;
+}
+#text_1 {
+  color: #fff;
+  font-family: Mulish;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
